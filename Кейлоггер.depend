@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1466962435 source:d:\ןנמדנאללטנמגאםטו\c\Êויכמדדונ\src\key.c
+	"key.h"
+	<windows.h>
+	<GL/glx.h>
+
+1466962174 d:\ןנמדנאללטנמגאםטו\c\Êויכמדדונ\src\key.h
+
+1466963342 source:d:\ןנמדנאללטנמגאםטו\c\Êויכמדדונ\src\main.c
+	<windows.h>
+	<unistd.h>
+	<GL/glx.h>
+	<stdio.h>
+
